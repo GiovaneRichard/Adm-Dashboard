@@ -27,7 +27,7 @@ export default () => {
                         <SettingsIcon />
                     </div>
 
-                    <img className="top--avatar" src="https://scontent.fvdc8-1.fna.fbcdn.net/v/t1.18169-9/1601127_482392625199836_2085716357_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ATpaZTfbGJ4AX8J-AHe&tn=6Rhb3fLS4de3NdP3&_nc_ht=scontent.fvdc8-1.fna&oh=00_AT_Y4xXiEDfbw5Ldls7J7VSMLSKoPzWQZog-j0nLo4JGZQ&oe=61F2CD06" alt="" />
+                    <img className="top--avatar" src="https://yt3.ggpht.com/yti/APfAmoHWDJUfU0O2HwRJ1UE5A6-aFnNEdPvi4Fjc8h47qQ=s88-c-k-c0x00ffffff-no-rj-mo" alt="" />
                 </div>
             </div>
         </div>
